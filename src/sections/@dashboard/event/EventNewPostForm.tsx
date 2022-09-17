@@ -259,7 +259,15 @@ export default function EventNewPostForm() {
 
                 <section>
                   <LabelStyle>Fee</LabelStyle>
-                  <RHFSlider name="fee" marks={percentMarks} getAriaLabel={percentValueText} />
+                  <LabelStyle>Threshold</LabelStyle>
+                  <RHFTextField
+                    name="fee"
+                    type="number"
+                    InputProps={{
+                      startAdornment: <InputAdornment position="start">TEZ</InputAdornment>,
+                    }}
+                  />
+                  {/* <RHFSlider name="fee" marks={percentMarks} getAriaLabel={percentValueText} /> */}
                 </section>
 
                 <section>
