@@ -8,12 +8,12 @@ The social trading network is powered by FatCow IO social trading protocol that 
 
 ###  Demo Video
 <a href="https://www.youtube.com/watch?v=TjAs-bi5zcM" target="_blank">
- <img src="images/fatcowdemo.jpg" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="https://github.com/wanxiang-blockchain/2022-WX-Blockchain-Fall-Hackathon-FatCow/images/fatcowdemo.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
 
 ###  Technical Architecture
 <p align="center">
-  <img src="images/fatcowio.png" style="width:1300px";>
+  <img src="https://github.com/wanxiang-blockchain/2022-WX-Blockchain-Fall-Hackathon-FatCow/images/fatcowio.png" style="width:1300px";>
 </p>
 
 ### Built with
