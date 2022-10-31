@@ -1,4 +1,8 @@
 ## FatCow IO Social Trading Protocol
+FatCow got First Prize Winner in 2022 Wanxiang Blockchain Fall Hackathon.
+Also Got a Winners of Potential Awards
+
+https://twitter.com/FatCowIO/status/1575508741079719937
 
 
 ### Introduction
